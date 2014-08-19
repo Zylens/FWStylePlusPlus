@@ -1,3 +1,4 @@
+@import url(style_includes/new_player_13.css);
 @import url(style_includes/item_shop.css); 
 @import url(style_includes/item_auftrag.css); 
 @import url(style_includes/new_item_13.css); 
@@ -74,9 +75,9 @@ select 					{font-size:11px;background-color:#DBEBEF;}
 	.healthcritical 		{color: #D20000;}
 	.chatpics 			{visibility:visible;}
 /* frames bg */
-	.framebannerbg table {position:absolute; right: -150px}
+	.framebannerbg 		{ background-color: #C85424; background-image: url(images/bannerbg2.jpg); border-bottom: 1px solid #000000; }.framebannerbg 		{ background-color: #C85424; background-image: url(images/bannerbg2.jpg); border-bottom: 1px solid #000000; }
 	/* VERSION */
-	.framemainbg:before { content: url(images/de.png) "~~~~Version 0.2.1 Beta - Hompage:http://w13.fwtools.de made by Werwolf"; display: block; font-size: 10px; text-align: right; margin-top: -5px; line-height: 130%; }
+	.framemainbg:before { content: url(images/de.png) "Version 0.2.2 Beta - Homepage:www.voltageteam.de made by Werwolf"; color: #d5d5d5; display: block; font-size: 10px; text-align: right; margin-top: -5px; line-height: 130%; }
 	/* ENDE */
 	.framechatformbg { background-color: #E7E7E7; }
 	.framechattextbg { background-color: #F8F8F8; margin: 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 5px; }
