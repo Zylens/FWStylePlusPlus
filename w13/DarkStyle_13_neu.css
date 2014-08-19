@@ -79,7 +79,7 @@ select 					{font-size:11px;background-color:#454545;}
 /* frames bg */
 	.framebannerbg table {position:absolute; right: -150px}
 	/* VERSION */
-	.framemainbg:before { content: url(images/de.png) "~~~~Version 0.2.1 Beta - Hompage:http://w13.fwtools.de made by Werwolf / Dark-Style-Design by Dolgthrasir"; color: #d5d5d5; display: block; font-size: 10px; text-align: right; margin-top: -5px; line-height: 130%; }
+	.framemainbg:before { content: url(images/de.png) "Version 0.2.2 Beta - Homepage:voltageteam.de made by Werwolf"; color: #d5d5d5; display: block; font-size: 10px; text-align: right; margin-top: -5px; line-height: 130%; }
 	/* ENDE */
 	.framechatformbg { background-color: #444444; }
 	.framechattextbg { background-color: #2C2C2C; background-image: url(imagesDarkStyle/textfeldbg.jpg); background-attachment: fixed; background-repeat:no-repeat; top: 50px; margin: 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 5px; }
