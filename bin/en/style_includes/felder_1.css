@@ -4,8 +4,8 @@
 #mainmapx90y105 {width: 0;background:url(../images/Weihnachtsbaum.JPG)no-repeat;padding-left: 65px;overflow: hidden;!important;}
 */
 /*Made by Werwolf - HalloWeen*/
-#mapx90y105 {background-image:url(http://img684.imageshack.us/img684/8353/krbise.jpg)!important;}
-#mainmapx90y105 {width: 0;background:url(http://img684.imageshack.us/img684/8353/krbise.jpg)no-repeat;padding-left: 65px;overflow: hidden;!important;}
+#mapx90y105 {background-image:url(../images/Weihnachtsbaum.JPG)!important;}
+#mainmapx90y105 {width: 0;background:url(../images/Weihnachtsbaum.JPG)no-repeat;padding-left: 65px;overflow: hidden;!important;}
 
 /*Grotte Version 1*/
 #mapx-825y-915 { background-image:url(../images/karten/grotte01/-825-915.jpg)!important; }

@@ -13,7 +13,7 @@
 @import url(style_includes/quest_npc.css);
 .framebannerbg:after { top : 0px; left : 0px; position : absolute; content : url("https://freewar.zocker.eu/grafik.php"); width : 350px; height : 75px; opacity : 0.9;}
 .framebannerbg 		{ background-color: #C85424; background-image: url(https://s.fwtools.de/images/bannerbg2.jpg); border-bottom: 1px solid #000000; }
-.framemainbg:before { content: url(images/fleg.png) " fwstyle++ - Version 0.1.1d Beta - http://freewarstyleplusplus.lima-city.de/ made by Incogito "; display: block; font-size: 10px; text-align: right; margin-top: -5px; line-height: 130%; }
+.framemainbg:before { content: url(images/fleg.png) " fwstyle++ - Version 0.1.1d Beta - http://freewarstyleplusplus.lima-city.de/ made by Incognito "; display: block; font-size: 10px; text-align: right; margin-top: -5px; line-height: 130%; }
 /* BETTER SUNFIRE */
 /* Stylegenerator v 0.1 by sniGG */
 /* http://www.fwwiki.de/index.php/Benutzer:Doran */
